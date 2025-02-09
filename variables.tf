@@ -7,7 +7,7 @@ variable "environment" {
 }
 
 variable "description" {
-  
+  default = ""
 }
 
 variable "common_tags" {
